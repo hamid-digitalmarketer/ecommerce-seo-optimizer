@@ -75,9 +75,14 @@ Tests cover issue detection, suggestion generation, missing-title handling, safe
 - Shopify/WooCommerce export formats
 - Batch apply via a reviewed CSV diff
 
+## Related projects
+
+- [seo-doctor](https://github.com/hamid-digitalmarketer/seo-doctor) — automated technical SEO site crawler
+- [seo-audit-tool](https://github.com/hamid-digitalmarketer/seo-audit-tool) — on-page SEO audit and website health checker
+
 ## License
 
-MIT (add a `LICENSE` file before commercial use if required by your use case).
+MIT — see [LICENSE](LICENSE).
 
 ---
 
@@ -85,7 +90,7 @@ MIT (add a `LICENSE` file before commercial use if required by your use case).
 
 Digital Marketing | SEO | Performance Marketing | E-commerce | Web Development
 
-- Portfolio: [https://abouthamid.web.app/](https://abouthamid.web.app/)
+- Portfolio: [https://hamid-resume.web.app/](https://hamid-resume.web.app/)
 - LinkedIn: [https://www.linkedin.com/in/muhammad-hamid-digital-marketing/](https://www.linkedin.com/in/muhammad-hamid-digital-marketing/)
 - WhatsApp: [https://wa.me/923167417135](https://wa.me/923167417135)
 
